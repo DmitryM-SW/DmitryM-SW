@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DmitryM-SW
+- 👀 I’m interested in creating digital magic through code.
+- 🌱 I’m currently learning how to make machines understand humor.
+- 💞️ I’m looking to collaborate on projects that aim to make the world a bit more whimsical.
+- 📫 How to reach me: dmitrym.fun@example.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I once wrote a script that generated dad jokes on command. It was a hit at family gatherings!
